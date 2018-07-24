@@ -1,4 +1,6 @@
 .backgrnd{
     background-image:url(https://wp4.tallythemesdemo.com/insurance-now-free/wp-content/uploads/sites/6/2017/11/boat-house-192990.jpg);
-    background-attachment: fixed; 
+    background-attachment: fixed;
+    background-size: 100% 600px; 
+    background-color: black;
 }

@@ -25,7 +25,7 @@ center{
     height: 50px;
     width:150px;
     border-radius: 40px;
-    background-color: rgba(245, 245, 245, 0.94);
+    background-color: white;
 }
 .section2{
     position: relative;
@@ -45,10 +45,39 @@ center{
    margin:auto;
    position: relative;
    line-height: 1.6em;
+   font-weight: 100;
+}
+.content{
+    color: white;
+    margin-left: 100px !important;
+    width: 550px;
+    margin:auto;
+    position: relative;
+    line-height: 1.6em;
+    font-weight: 100;
+
 }
 .section3{
     position: relative;
-   background-image:url(http://wp4.tallythemesdemo.com/insurance-now-free/wp-content/uploads/sites/6/2017/09/15.jpg);
+    background-image:url(http://wp4.tallythemesdemo.com/insurance-now-free/wp-content/uploads/sites/6/2017/09/15.jpg);
     width: 100%;
     height: 400px;
+    
+}
+.head{
+    position: relative;
+    text-align: left; 
+    margin-left: 100px;  
+    color: white;
+    font-size: 40px;
+}
+.left{
+    text-align: left;
+    background-color:white;
+    width:50%;
+}
+.right{
+    text-align: right;
+    background-color:white;
+    width: 50%;
 }
