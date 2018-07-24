@@ -22,8 +22,8 @@ export default class Section extends Component {
                         we have added one-click demo installation. You can make your website like our demo with the help of one-click demo installation.So, this feature will save your valuable time.</p>
                         </p>
                 </div>
-                <div>
-
+                <div className="section3">
+                <div className="heading"> <b>How We Can Help</b> </div>
                 </div>
             </div>
         );

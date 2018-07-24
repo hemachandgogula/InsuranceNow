@@ -34,7 +34,6 @@ center{
     height: 400px;
 }
 .heading{
-    margin-top: 40px;
   text-align: center;
   font-size: 40px;
   font-family: 'Montserrat', sans-serif
@@ -46,4 +45,10 @@ center{
    margin:auto;
    position: relative;
    line-height: 1.6em;
+}
+.section3{
+    position: relative;
+   background-image:url(http://wp4.tallythemesdemo.com/insurance-now-free/wp-content/uploads/sites/6/2017/09/15.jpg);
+    width: 100%;
+    height: 400px;
 }
