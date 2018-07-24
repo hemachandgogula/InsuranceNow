@@ -1,10 +1,11 @@
 import React, { Component } from 'react';
 import './App.css';
-import Header from './components/header';
+import LandingPage from './components/Landingpage';
+
 class App extends Component {
   render() {
     return (
-      <Header/>
+      <LandingPage/>
     );
   }
 }
