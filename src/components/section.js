@@ -10,7 +10,7 @@ export default class Section extends Component {
                     <p className="des">I am text block. Click edit button to change this text. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut elit
   tellus, luctus nec ullamcorper mattis, pulvinar dapibus leo.
 </p>
-                    <center> <Button className="secondary" id="findmore" label="find out more" /></center>
+                    <center> <Button className="secondary" id="findmore" label="Find Out More" /></center>
                 </div>
                 <div className="section2">
                     <div className="heading"> <b> This is the heading element</b> </div>
@@ -29,19 +29,20 @@ export default class Section extends Component {
                         <p>As we were voted Best Insurance Provider by consumers four years running you know that you are in good hands with us. Every 12 seconds a new customer joins our insurance Group, get a quote today and see how much you could save.</p>
                     </p>
                 </div>
-                {/* <div className="section4">
-                    <div className="left"> <strong>This is heading element</strong>
+                <div className="section4">
+                    <div className="left"> <strong id="head">This is heading element</strong>
                         <p>
                             <p> We offer a wealth of other insurance products including Home Insurance, Travel Insurance, Pet Insurance and Van Insurance. This means that we can offer all your insurance needs in one place and with our existing customer discounts we could save you time and money.</p>
                             <p>As we were voted Best Insurance Provider by consumers four years running you know that you are in good hands with us. Every 12 seconds a new customer joins our insurance Group, get a quote today and see how much you could save.</p>
                         </p>
                     </div>
-                    <div className="right"> <strong>This is heading element</strong> </div>
-                    <p>
+                    <div className="right"> <strong id="head">This is heading element</strong>              
+                          <p>
                         <p> We offer a wealth of other insurance products including Home Insurance, Travel Insurance, Pet Insurance and Van Insurance. This means that we can offer all your insurance needs in one place and with our existing customer discounts we could save you time and money.</p>
                         <p>As we were voted Best Insurance Provider by consumers four years running you know that you are in good hands with us. Every 12 seconds a new customer joins our insurance Group, get a quote today and see how much you could save.</p>
                     </p>
-                 </div> */}
+                    </div>
+                 </div>
         </div>
         );
     }

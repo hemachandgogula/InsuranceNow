@@ -62,7 +62,6 @@ center{
     background-image:url(http://wp4.tallythemesdemo.com/insurance-now-free/wp-content/uploads/sites/6/2017/09/15.jpg);
     width: 100%;
     height: 400px;
-    
 }
 .head{
     position: relative;
@@ -74,10 +73,24 @@ center{
 .left{
     text-align: left;
     background-color:white;
-    width:50%;
+    width:40%;
+    position: relative;
+    height: 200px;
+    margin-left: 100px;
+    float: left;
 }
 .right{
-    text-align: right;
+    text-align: leftt;
+    float: right;
     background-color:white;
-    width: 50%;
+    width: 40%;
+    height: 200px;
+    margin-right: 100px;
+    position: relative;
+}
+.section4{
+    background-color: white;
+}
+#head{
+font-weight: 1000;
 }
